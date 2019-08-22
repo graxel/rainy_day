@@ -1,0 +1,3 @@
+agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url
+456,https://www.cityofalbany.net/departments/public-works/transportation/albany-transit-system,en,Albany Transit System,(541) 917-7667,America/Los_Angeles,
+457,http://www.cityofalbany.net/departments/public-works/transportation/linn-benton-loop,en,Linn-Benton Loop,541-917-7667,America/Los_Angeles,http://www.cityofalbany.net/departments/public-works/transportation/linn-benton-loop

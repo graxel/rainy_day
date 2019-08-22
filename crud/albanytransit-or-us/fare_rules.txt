@@ -1,0 +1,5 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+1399,3099,,,
+1399,3100,,,
+1399,3101,,,
+1400,3104,,,

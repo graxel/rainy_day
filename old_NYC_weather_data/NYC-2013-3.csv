@@ -1,0 +1,3 @@
+Mar Time,Max Temperature (° F),Avg Temperature (° F),Min Temperature (° F),Max Dew Point (° F),Avg Dew Point (° F),Min Dew Point (° F),Max Humidity (%),Avg Humidity (%),Min Humidity (%),Max Wind Speed (mph),Avg Wind Speed (mph),Min Wind Speed (mph), Pressure (Hg), Pressure (Hg), Pressure (Hg), , , 
+1,45.0,41.0,36.0,29.0,27.0,24.0,75.0,nan,45.0,15.0,nan,0.0,nan,nan,nan,nan,nan,nan
+2,40.0,36.0,31.0,26.0,23.0,21.0,69.0,nan,48.0,nan

@@ -1,0 +1,4 @@
+Feb Time,Max Temperature (° F),Avg Temperature (° F),Min Temperature (° F),Max Dew Point (° F),Avg Dew Point (° F),Min Dew Point (° F),Max Humidity (%),Avg Humidity (%),Min Humidity (%),Max Wind Speed (mph),Avg Wind Speed (mph),Min Wind Speed (mph), , , , , , 
+1,48.0,40.0,31.0,36.0,31.0,27.0,79.0,nan,53.0,22.0,nan,0.0,nan,nan,nan,nan,nan,nan
+2,43.0,35.0,27.0,33.0,30.0,25.0,92.0,nan,62.0,12.0,nan,0.0,nan,nan,nan,nan,nan,nan
+3,44.0,38.0,32.0,39.0,33.0,26.0

@@ -1,0 +1,116 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+801966,,,Pacific Blvd & Airport Rd,,44.6414009803302,-123.064744827761,,,0,,America/Los_Angeles,,,0
+801920,,,Waverly & Grand Prairie,,44.614109,-123.073174,,,0,,America/Los_Angeles,,,0
+801917,,,Waverly & 14th,,44.628353,-123.073341,,,0,,America/Los_Angeles,,,0
+801763,,,Hill & 18th,,44.623749,-123.090324,,,0,,America/Los_Angeles,,,0
+802038,,,Davis Family Farm/Children's Farm Home (Flag Stop),,44.6077943297331,-123.218035064971,,,0,,America/Los_Angeles,,,0
+801544,,,34th & Pacific Blvd,,44.6101507129679,-123.111940602039,,,0,,America/Los_Angeles,,,0
+802064,,,Pacific Blvd & 29th (Flag Stop),,44.61504,-123.113609,,,0,,America/Los_Angeles,,,0
+802015,,,2nd & Broadalbin,,44.636192,-123.107155,,,0,,America/Los_Angeles,,,0
+801833,,,35th & Pacific,,44.608627937991,-123.113785934728,,,0,,America/Los_Angeles,,,0
+801717,,,Gibson Hill & Gibson Way,,44.657,-123.11867,,,0,,America/Los_Angeles,,,0
+801796,,,Knox Butte & Opal,,44.6442800596545,-123.057375669963,,,0,,America/Los_Angeles,,,0
+801849,,,Queen & Geary,,44.6252973504535,-123.084023793955,,,0,,America/Los_Angeles,,,0
+802058,,,Goodwill on Pacific Blvd & Cleveland (Flag Stop),,44.634113,-123.084824,,,0,,America/Los_Angeles,,,0
+805274,,,7th & Pacific,,44.63372,-123.09405,,,0,,America/Los_Angeles,,,0
+801824,,,Taco Bell on Pacific Blvd before Albany Station,,44.62262,-123.110168,,,0,,America/Los_Angeles,,,0
+802040,,,Hwy 34 & Riverside (Westbound) (Flag Stop),,44.5641198934929,-123.201342730661,,,0,,America/Los_Angeles,,,0
+801835,,,Pacific & Ellingson,,44.58896437076,-123.110030862518,,,0,,America/Los_Angeles,,,0
+801915,,,Washington & 3rd,,44.635452,-123.109856,,,0,,America/Los_Angeles,,,0
+801510,,,28th & Madison,,44.614735,-123.090996,,,0,,America/Los_Angeles,,,0
+801863,,,Salem & Columbus,,44.6390082234822,-123.078692010958,,,0,,America/Los_Angeles,,,0
+801851,,,Queen & Marion,,44.6259588044362,-123.098069219879,,,0,,America/Los_Angeles,,,0
+801765,,,Hill & 28th,,44.614697,-123.090057,,,0,,America/Los_Angeles,,,0
+801825,,,Pacific Blvd & 29th,,44.61504,-123.113609,,,0,,America/Los_Angeles,,,0
+801701,,,Del Rio Ave & Waverly,,44.60199,-123.075127,,,0,,America/Los_Angeles,,,0
+801965,,,Salem at Waverly Lake,,44.6407142482964,-123.071187389875,,,0,,America/Los_Angeles,,,0
+802221,,,9th & Circle Blvd (Rite-Aid),,44.5882642766479,-123.255283414116,,,0,,America/Los_Angeles,,,0
+802010,,,9th & Fremont Ave (Avery Square),,44.5732393065265,-123.263569189232,,,0,,America/Los_Angeles,,,0
+802032,,,4th & Harrison,,44.5672168512763,-123.260751806458,,,0,,America/Los_Angeles,,,0
+802033,,,Harrison & 7th,,44.568473541,-123.263854619,,,0,,America/Los_Angeles,,,0
+801864,,,Salem & Mason,,44.6377930036574,-123.086893665997,,,0,,America/Los_Angeles,,,0
+802254,,,Circle & Belvue,,44.589038145,-123.248394466,,,0,,America/Los_Angeles,,,0
+801918,,,Waverly & 21st,,44.6211059377662,-123.07289445008,,,0,,America/Los_Angeles,,,0
+802475,,,14th & Jefferson/OSU,,44.565029211,-123.273597394,,,0,,America/Los_Angeles,,,0
+801764,,,Hill & 24th,,44.618385,-123.090141,,,0,,America/Los_Angeles,,,0
+801971,,,Waverly Dr & 18th,,44.6240731862478,-123.073030626113,,,0,,America/Los_Angeles,,,0
+802063,,,YMCA on Pacific Blvd & 34th (Flag Stop),,44.611036969809,-123.113547184502,,,0,,America/Los_Angeles,,,0
+802005,,,4th St (btwn Madison & Jefferson),,44.563236,-123.262825,,,0,,America/Los_Angeles,,,0
+801991,,,14th at Heritage Mall,,44.628868,-123.079552,,,0,,America/Los_Angeles,,,0
+801829,,,Pacific & Walnut,,44.618713,-123.112961,,,0,,America/Los_Angeles,,,0
+802048,,,LBCC (Linn Benton Community College),,44.586189,-123.113922,,,0,,America/Los_Angeles,,,0
+801547,,,34th & Marion,,44.610313,-123.09861,,,0,,America/Los_Angeles,,,0
+801744,,,Tom's Garden Center (Across from Old Park & Ride),,44.64404,-123.10819,,,0,,America/Los_Angeles,,,0
+801677,,,Clay at Heritage Mall,,44.630341,-123.077301,,,0,,America/Los_Angeles,,,0
+801924,,,Waverly at Fred Meyer,,44.6305712437412,-123.073299945566,,,0,,America/Los_Angeles,,,0
+805273,,,North Albany Elementary & Middle School,,44.65122,-123.11644,,,0,,America/Los_Angeles,,,0
+801871,,,Santiam Hwy & Bain,,44.631405,-123.069832,,,0,,America/Los_Angeles,,,0
+801710,,,Elm & Queen Ave,,44.6232714979406,-123.114107897924,,,0,,America/Los_Angeles,,,0
+801604,,,7th & Elm at Albany General Hospital,,44.6315407337627,-123.114892681753,,,0,,America/Los_Angeles,,,0
+801605,,,7th & Washington,,44.632198,-123.109467,,,0,,America/Los_Angeles,,,0
+802009,,,9th & Spruce (Ruby Tuesday),,44.586307216,-123.256087894,,,0,,America/Los_Angeles,,,0
+801762,,,Hill & 12th at Boys & Girls Club,,44.629898,-123.091431,,,0,,America/Los_Angeles,,,0
+801866,,,Salem & Waverly,,44.6397590959956,-123.074065822405,,,0,,America/Los_Angeles,,,0
+801653,,,2nd & Broadalbin,,44.636192,-123.107155,,,0,,America/Los_Angeles,,,0
+801826,,,YMCA on Pacific Blvd,,44.611036969809,-123.113547184502,,,0,,America/Los_Angeles,,,0
+801834,,,Pacific & 53rd,,44.595882,-123.113274,,,0,,America/Los_Angeles,,,0
+802008,,,9th & Fremont (Avery Square & Cannery Mall),,44.5721101139895,-123.264050037808,,,0,,America/Los_Angeles,,,0
+802021,,,Clay at Heritage Mall,,44.630341,-123.077301,,,0,,America/Los_Angeles,,,0
+801770,,,Jackson & 32nd,,44.6119198531279,-123.096098582221,,,0,,America/Los_Angeles,,,0
+802550,,,Pacific & Roland Dr (Flag Stop),,44.5598066648321,-123.110152679198,,,0,,America/Los_Angeles,,,0
+801919,,,Waverly & 25th,,44.617386,-123.072891,,,0,,America/Los_Angeles,,,0
+801640,,,Albany Amtrak Station,,44.630307425,-123.103127925,,,0,,America/Los_Angeles,,,0
+805275,,,Hill St. SE & 34th Ave. SE,,44.61038,-123.09046,,,0,,America/Los_Angeles,,,0
+801832,,,Elm & 29th,,44.614346,-123.113953,,,0,,America/Los_Angeles,,,0
+801548,,,34th & Oak,,44.610466,-123.085464,,,0,,America/Los_Angeles,,,0
+801546,,,34th & Hill,,44.61042,-123.089897,,,0,,America/Los_Angeles,,,0
+801622,,,9th & Main,,44.6325496595807,-123.090400676645,,,0,,America/Los_Angeles,,,0
+801700,,,Del Rio & Columbus,,44.6026160751437,-123.079461790694,,,0,,America/Los_Angeles,,,0
+801822,,,North Albany & Jones,,44.64578,-123.11414,,,0,,America/Los_Angeles,,,0
+801820,,,North Albany Fire Station,,44.65637,-123.13466,,,0,,America/Los_Angeles,,,0
+801969,,,Santiam Hwy & Commercial Way,,44.6295749967974,-123.055663310916,,,0,,America/Los_Angeles,,,0
+802039,,,Peoria Market/Wolcott (Flag Stop),,44.563937164,-123.234863308,,,0,,America/Los_Angeles,,,0
+801678,,,Columbus & Columbus Pl,,44.608185,-123.079445,,,0,,America/Los_Angeles,,,0
+802035,,,North Albany Park & Ride,,44.6448479312407,-123.114688511457,,,0,,America/Los_Angeles,,,0
+802054,,,Corvallis Transit Center (5th & Monroe),,44.564938,-123.263374,,,0,,America/Los_Angeles,,,0
+801525,,,2nd & Baker,,44.636799079286,-123.102979078611,,,0,,America/Los_Angeles,,,0
+802061,,,35th & Pacific (Flag Stop),,44.608627937991,-123.113785934728,,,0,,America/Los_Angeles,,,0
+802065,,,Pacific & 29th (Flag Stop),,44.614346,-123.113953,,,0,,America/Los_Angeles,,,0
+802549,,,Davis Family Farm/Children's Farm Home (Flag Stop),,44.6077084000788,-123.217833899295,,,0,,America/Los_Angeles,,,0
+801968,,,WalMart on Maple Leaf,,44.6281975048042,-123.050744431727,,,0,,America/Los_Angeles,,,0
+801828,,,Pacific & Ellingson,,44.5902778755252,-123.109650732996,,,0,,America/Los_Angeles,,,0
+801545,,,34th & Chicago St.,,44.6104918267702,-123.080709298861,,,0,,America/Los_Angeles,,,0
+801988,,,Marion St & 30th Ave,,44.61408,-123.09845,,,0,,America/Los_Angeles,,,0
+801494,,,14th at Heritage Mall,,44.628868,-123.079552,,,0,,America/Los_Angeles,,,0
+801550,,,34th & Pacific,,44.6098743168998,-123.112694378608,,,0,,America/Los_Angeles,,,0
+801709,,,Elm & 11th,,44.628162,-123.11438,,,0,,America/Los_Angeles,,,0
+802551,,,Hwy 34 & Wolcott St/Peoria St (Flag Stop),,44.5639843566916,-123.235012191051,,,0,,America/Los_Angeles,,,0
+802018,,,Albany Amtrak Station,,44.630307425,-123.103127925,,,0,,America/Los_Angeles,,,0
+802052,,,Pacific Blvd & Wilco (Flag Stop),,44.5599581260549,-123.109991668566,,,0,,America/Los_Angeles,,,0
+802022,,,Circle & Belvue,,44.588748347,-123.249935409,,,0,,America/Los_Angeles,,,0
+801852,,,Queen & Powell,,44.6251530620864,-123.092731879673,,,0,,America/Los_Angeles,,,0
+801963,,,Waverly Dr & 36th,,44.6083973388679,-123.073363533169,,,0,,America/Los_Angeles,,,0
+801711,,,Elm & 24th,,44.6195495393532,-123.113983940521,,,0,,America/Los_Angeles,,,0
+801922,,,Waverly & Pacific,,44.6362699767613,-123.073440526603,,,0,,America/Los_Angeles,,,0
+801797,,,Knox Butte & Timber,,44.644039,-123.053154,,,0,,America/Los_Angeles,,,0
+805272,,,North Albany Park & Ride,,44.64485,-123.11463,,,0,,America/Los_Angeles,,,0
+801827,,,College Park,,44.598652,-123.113121,,,0,,America/Los_Angeles,,,0
+801777,,,Killdeer at Costco,,44.6392042959108,-123.063632547666,,,0,,America/Los_Angeles,,,0
+801916,,,Washington & Water,,44.637207,-123.11026,,,0,,America/Los_Angeles,,,0
+801967,,,Goldfish Farm Rd & Christopher Ave,,44.6348669535039,-123.048241537951,,,0,,America/Los_Angeles,,,0
+802066,,,Pacific & 53rd (Flag Stop),,44.595882,-123.113274,,,0,,America/Los_Angeles,,,0
+801716,,,Geary & Geary Cir,,44.6277178005559,-123.083427555242,,,0,,America/Los_Angeles,,,0
+801921,,,Waverly & Moraga,,44.603851,-123.07354,,,0,,America/Los_Angeles,,,0
+801964,,,2nd & Jefferson St,,44.6372586027931,-123.098808222478,,,0,,America/Los_Angeles,,,0
+801970,,,Santiam Hwy & Airport Rd,,44.6305516189582,-123.065636529911,,,0,,America/Los_Angeles,,,0
+801873,,,Santiam Hwy & Columbus,,44.6332408275749,-123.079556365803,,,0,,America/Los_Angeles,,,0
+801769,,,Jackson & 11th,,44.630249,-123.09803,,,0,,America/Los_Angeles,,,0
+801850,,,Queen & Main,,44.625214,-123.088478,,,0,,America/Los_Angeles,,,0
+2440150,,,1st & Washington (Temporary Stop),,44.636760037482,-123.11018562563,,,0,,America/Los_Angeles,,,0
+801865,,,Salem & Sherman,,44.6375844880996,-123.0903884138,,,0,,America/Los_Angeles,,,0
+801798,,,LBCC (Linn Benton Community College),,44.586189,-123.113922,,,0,,America/Los_Angeles,,,0
+802034,,,Hewlett Packard,,44.584995459,-123.243657502,,,0,,America/Los_Angeles,,,0
+802056,,,College Park (Flag Stop),,44.598652,-123.113121,,,0,,America/Los_Angeles,,,0
+801549,,,34th & Calapooia,,44.6100619710312,-123.105105732897,,,0,,America/Los_Angeles,,,0
+801821,,,North Albany & Jones,,44.6461121745797,-123.114497004963,,,0,,America/Los_Angeles,,,0
+801718,,,Goldfish Farm Rd & Azalea St,,44.6399119102982,-123.048268843287,,,0,,America/Los_Angeles,,,0

@@ -1,0 +1,11 @@
+Oct Time,Max Temperature (° F),Avg Temperature (° F),Min Temperature (° F),Max Dew Point (° F),Avg Dew Point (° F),Min Dew Point (° F),Max Humidity (%),Avg Humidity (%),Min Humidity (%),Max Wind Speed (mph),Avg Wind Speed (mph),Min Wind Speed (mph),Max Pressure (Hg), Pressure (Hg), Pressure (Hg), , , 
+1,76.0,70.0,63.0,66.0,63.0,59.0,87.0,nan,68.0,9.0,nan,0.0,30.31,nan,nan,nan,nan,nan
+2,77.0,71.0,65.0,68.0,65.0,63.0,100.0,nan,73.0,14.0,nan,0.0,30.26,nan,nan,nan,nan,nan
+3,74.0,69.0,63.0,64.0,61.0,58.0,93.0,nan,61.0,9.0,nan,0.0,30.09,nan,nan,nan,nan,nan
+4,76.0,69.0,61.0,70.0,64.0,59.0,97.0,nan,73.0,9.0,nan,0.0,30.07,nan,nan,nan,nan,nan
+5,71.0,66.0,60.0,66.0,56.0,51.0,84.0,nan,55.0,13.0,nan,0.0,30.19,nan,nan,nan,nan,nan
+6,68.0,66.0,63.0,64.0,61.0,57.0,93.0,nan,78.0,7.0,nan,0.0,30.26,nan,nan,nan,nan,nan
+7,79.0,73.0,67.0,70.0,68.0,65.0,97.0,nan,71.0,8.0,nan,0.0,30.27,nan,nan,nan,nan,nan
+8,74.0,69.0,64.0,69.0,64.0,61.0,93.0,nan,81.0,12.0,nan,0.0,30.44,nan,nan,nan,nan,nan
+9,77.0,72.0,66.0,69.0,67.0,64.0,93.0,nan,79.0,9.0,nan,0.0,30.41,nan,nan,nan,nan,nan
+10,73.0,72.0,71.0,69.0,68.0,68.0,90.0,nan,84.0,6.0,nan,0.0,30.21,nan,nan,nan,nan,nan
