@@ -1,15 +1,9 @@
 import time
-import requests
-from bs4 import BeautifulSoup
 import pandas as pd
-import numpy as np
 import selenium
 from datetime import datetime
-from datetime import timedelta
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 import os
-import csv
 import random
 
 
@@ -17,7 +11,9 @@ def read_webpage(driver,url):
         
     driver.get(url)
 
+    # pause for a few seconds to let page load
     time.sleep(random.randint(5,12))
+
     xp = '//app/city-history/city-history-layout/div/div[2]/'\
             + 'section/div[2]/div[3]/div/div/div/div/'\
             + 'city-history-observation/div/div[2]/table/tbody'
@@ -26,39 +22,31 @@ def read_webpage(driver,url):
 
     return webpage_data
 
-
-# chromedriver = '/Users/grazillionaire/Documents/chromedriver' # path to the chromedriver executable
-# os.environ["webdriver.chrome.driver"] = chromedriver
-
 driver = webdriver.Chrome()
-
 
 # Generate list of dates (months) to pull weather data for.
 
 # For Chicago
 city = 'il/chicago/KORD'
-start_date = datetime(2006,6,1)
+abrv = 'CHI'
+start_date = datetime(2018,10,1)
 end_date = datetime(2018,12,1)
-
-
-# For New York
-#city = 'ny/new-york/KNYC'
-#start_date = datetime(2010,5,1)
-#end_date = datetime.today()
 
 date_list = pd.Series(pd.date_range(start_date,end_date,freq='MS'))
 
+# idempotently create directory for weather data
+w_data_dir = f'{abrv}_weather_data'
+os.makedirs(w_data_dir, exist_ok = True)
+
 for date in date_list:
     
-    url = 'https://www.wunderground.com/history/monthly/us/{loc}/date/{y}-{m}?cm_ven=localwx_history'\
-          .format(loc=city, y=date.year, m=date.month)
+    url = f'https://www.wunderground.com/history/monthly/us/{city}/date/{date.year}-{date.month}?cm_ven=localwx_history'
     
     # Record start time (for scraper performance purposes)
     start_time = datetime.now()
     webpage_data = read_webpage(driver, url)
 
-    storage = open('CHI weather data/CHI-{y}-{m}.txt'\
-                  .format(y=date.year, m=date.month), 'w')
+    storage = open(f'{w_data_dir}/{abrv}-{date.year}-{date.month}.txt', 'w')
     
     storage.write(webpage_data.text)
     
