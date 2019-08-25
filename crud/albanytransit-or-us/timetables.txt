@@ -1,0 +1,6 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,timetable_label,service_notes,direction_label,orientation
+1,3099,,20150101,20200101,1,1,1,1,1,0,0,Early Morning,Year Round (Monday-Friday),,horizontal
+2,3104,,20150101,20200101,0,0,0,0,0,1,0,Linn-Benton Loop,Year Round (Saturday only),,horizontal
+3,3104,,20150101,20200101,1,1,1,1,1,0,0,Linn-Benton Loop,Year Round (Monday-Friday),,horizontal
+4,3100,,20150101,20200101,1,1,1,1,1,0,0,Regular Service (East),Year Round (Monday-Friday),,horizontal
+5,3101,,20150101,20200101,1,1,1,1,1,0,0,Regular Service (West),Year Round (Monday-Friday),,horizontal

@@ -1,0 +1,166 @@
+timetable_id,stop_id,stop_sequence,stop_name,connected_routes
+1,801640,1,Albany Amtrak Station,"1/Early Morning, 2/Regular Service (East), 3/Regular Service (West)"
+1,801744,2,Tom's Garden Center (Across from Old Park & Ride),"1/Early Morning, 3/Regular Service (West)"
+1,801822,3,North Albany & Jones,"1/Early Morning, 3/Regular Service (West)"
+1,801717,4,Gibson Hill & Gibson Way,"1/Early Morning, 3/Regular Service (West)"
+1,801820,5,North Albany Fire Station,"1/Early Morning, 3/Regular Service (West)"
+1,805273,6,North Albany Elementary & Middle School,"1/Early Morning, 3/Regular Service (West)"
+1,801821,7,North Albany & Jones,"1/Early Morning, 3/Regular Service (West)"
+1,805272,8,North Albany Park & Ride,"1/Early Morning, 3/Regular Service (West)"
+1,801525,9,2nd & Baker,"1/Early Morning, 2/Regular Service (East)"
+1,801964,10,2nd & Jefferson St,"1/Early Morning, 2/Regular Service (East)"
+1,801865,11,Salem & Sherman,"1/Early Morning, 2/Regular Service (East)"
+1,801864,12,Salem & Mason,"1/Early Morning, 2/Regular Service (East)"
+1,801863,13,Salem & Columbus,"1/Early Morning, 2/Regular Service (East)"
+1,801866,14,Salem & Waverly,"1/Early Morning, 2/Regular Service (East)"
+1,801922,15,Waverly & Pacific,1/Early Morning
+1,801924,16,Waverly at Fred Meyer,"1/Early Morning, 2/Regular Service (East)"
+1,801917,17,Waverly & 14th,"1/Early Morning, 2/Regular Service (East)"
+1,801971,18,Waverly Dr & 18th,"1/Early Morning, 2/Regular Service (East)"
+1,801918,19,Waverly & 21st,"1/Early Morning, 2/Regular Service (East)"
+1,801919,20,Waverly & 25th,"1/Early Morning, 2/Regular Service (East)"
+1,801920,21,Waverly & Grand Prairie,"1/Early Morning, 2/Regular Service (East)"
+1,801545,22,34th & Chicago St.,"1/Early Morning, 2/Regular Service (East)"
+1,801548,23,34th & Oak,"1/Early Morning, 2/Regular Service (East)"
+1,801546,24,34th & Hill,1/Early Morning
+1,801765,25,Hill & 28th,1/Early Morning
+1,801764,26,Hill & 24th,"1/Early Morning, 2/Regular Service (East)"
+1,801763,27,Hill & 18th,"1/Early Morning, 2/Regular Service (East)"
+1,801762,28,Hill & 12th at Boys & Girls Club,"1/Early Morning, 2/Regular Service (East)"
+1,2440150,29,1st & Washington (Temporary Stop),"1/Early Morning, 3/Regular Service (West), /Linn-Benton Loop"
+1,801915,30,Washington & 3rd,"1/Early Morning, 3/Regular Service (West)"
+1,801605,31,7th & Washington,"1/Early Morning, 3/Regular Service (West)"
+1,801604,32,7th & Elm at Albany General Hospital,"1/Early Morning, 3/Regular Service (West)"
+1,801709,33,Elm & 11th,"1/Early Morning, 3/Regular Service (West)"
+1,801710,34,Elm & Queen Ave,"1/Early Morning, 3/Regular Service (West)"
+1,801711,35,Elm & 24th,"1/Early Morning, 3/Regular Service (West)"
+1,801832,36,Elm & 29th,"1/Early Morning, 3/Regular Service (West)"
+1,801833,37,35th & Pacific,"1/Early Morning, 3/Regular Service (West)"
+1,801834,38,Pacific & 53rd,"1/Early Morning, 3/Regular Service (West)"
+1,801835,39,Pacific & Ellingson,"1/Early Morning, 3/Regular Service (West)"
+1,801798,40,LBCC (Linn Benton Community College),"1/Early Morning, 3/Regular Service (West)"
+1,801828,41,Pacific & Ellingson,"1/Early Morning, 3/Regular Service (West)"
+1,801827,42,College Park,"1/Early Morning, 3/Regular Service (West)"
+1,801826,43,YMCA on Pacific Blvd,"1/Early Morning, 3/Regular Service (West)"
+1,801825,44,Pacific Blvd & 29th,"1/Early Morning, 3/Regular Service (West)"
+1,801829,45,Pacific & Walnut,"1/Early Morning, 3/Regular Service (West)"
+1,801824,46,Taco Bell on Pacific Blvd before Albany Station,"1/Early Morning, 3/Regular Service (West)"
+1,801640,47,Albany Amtrak Station,"1/Early Morning, 2/Regular Service (East), 3/Regular Service (West)"
+2,2440150,1,1st & Washington (Temporary Stop),"1/Early Morning, 3/Regular Service (West), /Linn-Benton Loop"
+2,802035,2,North Albany Park & Ride,/Linn-Benton Loop
+2,802038,3,Davis Family Farm/Children's Farm Home (Flag Stop),/Linn-Benton Loop
+2,802254,4,Circle & Belvue,/Linn-Benton Loop
+2,802221,5,9th & Circle Blvd (Rite-Aid),/Linn-Benton Loop
+2,802010,6,9th & Fremont Ave (Avery Square),/Linn-Benton Loop
+2,802054,7,Corvallis Transit Center (5th & Monroe),/Linn-Benton Loop
+2,802039,8,Peoria Market/Wolcott (Flag Stop),/Linn-Benton Loop
+2,802052,9,Pacific Blvd & Wilco (Flag Stop),/Linn-Benton Loop
+2,802048,10,LBCC (Linn Benton Community College),/Linn-Benton Loop
+2,802056,11,College Park (Flag Stop),/Linn-Benton Loop
+2,802063,12,YMCA on Pacific Blvd & 34th (Flag Stop),/Linn-Benton Loop
+2,802064,13,Pacific Blvd & 29th (Flag Stop),/Linn-Benton Loop
+2,802018,14,Albany Amtrak Station,/Linn-Benton Loop
+2,802021,15,Clay at Heritage Mall,/Linn-Benton Loop
+2,801991,16,14th at Heritage Mall,/Linn-Benton Loop
+2,802058,17,Goodwill on Pacific Blvd & Cleveland (Flag Stop),/Linn-Benton Loop
+2,2440150,18,1st & Washington (Temporary Stop),"1/Early Morning, 3/Regular Service (West), /Linn-Benton Loop"
+3,2440150,1,1st & Washington (Temporary Stop),"1/Early Morning, 3/Regular Service (West), /Linn-Benton Loop"
+3,802035,2,North Albany Park & Ride,/Linn-Benton Loop
+3,802038,3,Davis Family Farm/Children's Farm Home (Flag Stop),/Linn-Benton Loop
+3,802254,4,Circle & Belvue,/Linn-Benton Loop
+3,802221,5,9th & Circle Blvd (Rite-Aid),/Linn-Benton Loop
+3,802010,6,9th & Fremont Ave (Avery Square),/Linn-Benton Loop
+3,802054,7,Corvallis Transit Center (5th & Monroe),/Linn-Benton Loop
+3,802039,8,Peoria Market/Wolcott (Flag Stop),/Linn-Benton Loop
+3,802052,9,Pacific Blvd & Wilco (Flag Stop),/Linn-Benton Loop
+3,802048,10,LBCC (Linn Benton Community College),/Linn-Benton Loop
+3,802056,11,College Park (Flag Stop),/Linn-Benton Loop
+3,802063,12,YMCA on Pacific Blvd & 34th (Flag Stop),/Linn-Benton Loop
+3,802064,13,Pacific Blvd & 29th (Flag Stop),/Linn-Benton Loop
+3,802018,14,Albany Amtrak Station,/Linn-Benton Loop
+3,802021,15,Clay at Heritage Mall,/Linn-Benton Loop
+3,801991,16,14th at Heritage Mall,/Linn-Benton Loop
+3,802058,17,Goodwill on Pacific Blvd & Cleveland (Flag Stop),/Linn-Benton Loop
+3,2440150,18,1st & Washington (Temporary Stop),"1/Early Morning, 3/Regular Service (West), /Linn-Benton Loop"
+4,801640,1,Albany Amtrak Station,"1/Early Morning, 2/Regular Service (East), 3/Regular Service (West)"
+4,801525,2,2nd & Baker,"1/Early Morning, 2/Regular Service (East)"
+4,801964,3,2nd & Jefferson St,"1/Early Morning, 2/Regular Service (East)"
+4,801865,4,Salem & Sherman,"1/Early Morning, 2/Regular Service (East)"
+4,801864,5,Salem & Mason,"1/Early Morning, 2/Regular Service (East)"
+4,801863,6,Salem & Columbus,"1/Early Morning, 2/Regular Service (East)"
+4,801866,7,Salem & Waverly,"1/Early Morning, 2/Regular Service (East)"
+4,801965,8,Salem at Waverly Lake,2/Regular Service (East)
+4,801966,9,Pacific Blvd & Airport Rd,2/Regular Service (East)
+4,801777,10,Killdeer at Costco,2/Regular Service (East)
+4,801796,11,Knox Butte & Opal,2/Regular Service (East)
+4,801797,12,Knox Butte & Timber,2/Regular Service (East)
+4,801718,13,Goldfish Farm Rd & Azalea St,2/Regular Service (East)
+4,801967,14,Goldfish Farm Rd & Christopher Ave,2/Regular Service (East)
+4,801968,15,WalMart on Maple Leaf,2/Regular Service (East)
+4,801969,16,Santiam Hwy & Commercial Way,2/Regular Service (East)
+4,801970,17,Santiam Hwy & Airport Rd,2/Regular Service (East)
+4,801871,18,Santiam Hwy & Bain,2/Regular Service (East)
+4,801924,19,Waverly at Fred Meyer,"1/Early Morning, 2/Regular Service (East)"
+4,801917,20,Waverly & 14th,"1/Early Morning, 2/Regular Service (East)"
+4,801971,21,Waverly Dr & 18th,"1/Early Morning, 2/Regular Service (East)"
+4,801918,22,Waverly & 21st,"1/Early Morning, 2/Regular Service (East)"
+4,801919,23,Waverly & 25th,"1/Early Morning, 2/Regular Service (East)"
+4,801920,24,Waverly & Grand Prairie,"1/Early Morning, 2/Regular Service (East)"
+4,801963,25,Waverly Dr & 36th,2/Regular Service (East)
+4,801921,26,Waverly & Moraga,2/Regular Service (East)
+4,801701,27,Del Rio Ave & Waverly,2/Regular Service (East)
+4,801700,28,Del Rio & Columbus,2/Regular Service (East)
+4,801678,29,Columbus & Columbus Pl,2/Regular Service (East)
+4,801545,30,34th & Chicago St.,"1/Early Morning, 2/Regular Service (East)"
+4,801548,31,34th & Oak,"1/Early Morning, 2/Regular Service (East)"
+4,805275,32,Hill St. SE & 34th Ave. SE,2/Regular Service (East)
+4,801770,33,Jackson & 32nd,"2/Regular Service (East), 3/Regular Service (West)"
+4,801510,34,28th & Madison,2/Regular Service (East)
+4,801764,35,Hill & 24th,"1/Early Morning, 2/Regular Service (East)"
+4,801763,36,Hill & 18th,"1/Early Morning, 2/Regular Service (East)"
+4,801762,37,Hill & 12th at Boys & Girls Club,"1/Early Morning, 2/Regular Service (East)"
+4,801622,38,9th & Main,2/Regular Service (East)
+4,801873,39,Santiam Hwy & Columbus,2/Regular Service (East)
+4,801677,40,Clay at Heritage Mall,2/Regular Service (East)
+4,801494,41,14th at Heritage Mall,2/Regular Service (East)
+4,801716,42,Geary & Geary Cir,2/Regular Service (East)
+4,801849,43,Queen & Geary,2/Regular Service (East)
+4,801850,44,Queen & Main,2/Regular Service (East)
+4,801852,45,Queen & Powell,2/Regular Service (East)
+4,801851,46,Queen & Marion,2/Regular Service (East)
+4,801769,47,Jackson & 11th,2/Regular Service (East)
+4,805274,48,7th & Pacific,2/Regular Service (East)
+4,801640,49,Albany Amtrak Station,"1/Early Morning, 2/Regular Service (East), 3/Regular Service (West)"
+5,801640,1,Albany Amtrak Station,"1/Early Morning, 2/Regular Service (East), 3/Regular Service (West)"
+5,801744,2,Tom's Garden Center (Across from Old Park & Ride),"1/Early Morning, 3/Regular Service (West)"
+5,801822,3,North Albany & Jones,"1/Early Morning, 3/Regular Service (West)"
+5,801717,4,Gibson Hill & Gibson Way,"1/Early Morning, 3/Regular Service (West)"
+5,801820,5,North Albany Fire Station,"1/Early Morning, 3/Regular Service (West)"
+5,805273,6,North Albany Elementary & Middle School,"1/Early Morning, 3/Regular Service (West)"
+5,801821,7,North Albany & Jones,"1/Early Morning, 3/Regular Service (West)"
+5,805272,8,North Albany Park & Ride,"1/Early Morning, 3/Regular Service (West)"
+5,2440150,9,1st & Washington (Temporary Stop),"1/Early Morning, 3/Regular Service (West), /Linn-Benton Loop"
+5,801915,10,Washington & 3rd,"1/Early Morning, 3/Regular Service (West)"
+5,801605,11,7th & Washington,"1/Early Morning, 3/Regular Service (West)"
+5,801604,12,7th & Elm at Albany General Hospital,"1/Early Morning, 3/Regular Service (West)"
+5,801709,13,Elm & 11th,"1/Early Morning, 3/Regular Service (West)"
+5,801710,14,Elm & Queen Ave,"1/Early Morning, 3/Regular Service (West)"
+5,801711,15,Elm & 24th,"1/Early Morning, 3/Regular Service (West)"
+5,801832,16,Elm & 29th,"1/Early Morning, 3/Regular Service (West)"
+5,801550,17,34th & Pacific,3/Regular Service (West)
+5,801549,18,34th & Calapooia,3/Regular Service (West)
+5,801770,19,Jackson & 32nd,"2/Regular Service (East), 3/Regular Service (West)"
+5,801988,20,Marion St & 30th Ave,3/Regular Service (West)
+5,801547,21,34th & Marion,3/Regular Service (West)
+5,801544,22,34th & Pacific Blvd,3/Regular Service (West)
+5,801833,23,35th & Pacific,"1/Early Morning, 3/Regular Service (West)"
+5,801834,24,Pacific & 53rd,"1/Early Morning, 3/Regular Service (West)"
+5,801835,25,Pacific & Ellingson,"1/Early Morning, 3/Regular Service (West)"
+5,801798,26,LBCC (Linn Benton Community College),"1/Early Morning, 3/Regular Service (West)"
+5,801828,27,Pacific & Ellingson,"1/Early Morning, 3/Regular Service (West)"
+5,801827,28,College Park,"1/Early Morning, 3/Regular Service (West)"
+5,801826,29,YMCA on Pacific Blvd,"1/Early Morning, 3/Regular Service (West)"
+5,801825,30,Pacific Blvd & 29th,"1/Early Morning, 3/Regular Service (West)"
+5,801829,31,Pacific & Walnut,"1/Early Morning, 3/Regular Service (West)"
+5,801824,32,Taco Bell on Pacific Blvd before Albany Station,"1/Early Morning, 3/Regular Service (West)"
+5,801640,33,Albany Amtrak Station,"1/Early Morning, 2/Regular Service (East), 3/Regular Service (West)"
