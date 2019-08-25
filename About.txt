@@ -11,15 +11,15 @@ Scraping
 
  NOTE: I do not necessarily condone scraping wunderground.com. However, I will say that developing this bot was a fun opportunity to flex my scraping skills.
 
- To scrape the website, I initially tried using the beautifulsoup package to sift through the HTML code of each page, but this method proved fruitless, as the actual weather data I was after only appears after loading the webpage. Next I used Selenium's Chrome browser jdriver to simulate human interaction on each webpage and get them to serve up the weather data.
+ To scrape the website, I initially tried using the beautifulsoup package to sift through the HTML code of each page, but this method proved fruitless, as the actual weather data I was after only appears after loading the webpage. Next I used Selenium's Chrome browser driver to simulate human interaction on each webpage and get them to serve up the weather data.
 
  I began by trying to use the xpath [method/function] in selenium to invidually access each bit of data in each cell of the historical weather table on wunderground, and this approach looked promising at first, but would falter when the format of the table varied slightly. In the end, I followed the advice of a colleague, who recommended I break things up into two steps: simply gather the raw webpage data now and work on cleaning it up later, instead of trying to parse and clean the data on the fly.
 
  [scraper bot code]
 
- After some quick reformatting of the data, I had everything in one nice tidy pandas dataframe. I pickled this for future use.
+ After some quick reformatting of the data, I had everything in one nice tidy xXxXxX. I stored this as/in a csv for future use.
 
- [reformatting and pickling code]
+ [reformatting and csving code]
 
 EDA
  Now armed with [5000] points of ridership and weather data, my next step was to try and get a feel for the data, view feature distributions, and identify and clean up outliers and erroneous data. I noticed that <some list of features> had <some types of distributions> and others had beh bleh bleh
