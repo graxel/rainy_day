@@ -53,7 +53,7 @@ for date in date_list:
     stop_time = datetime.now()
     elapsed = stop_time-start_time
 
-    print('New weather data for ',date.month,'/',date.year,' scraped in ',
+    print('Weather data for ',date.month,'/',date.year,' scraped in ',
           elapsed.seconds + elapsed.microseconds/1000000, ' s', sep='')
 
 driver.close()
