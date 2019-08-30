@@ -1,5 +1,6 @@
 import pandas as pd
 import csv
+import matplotlib.pyplot as plt
 
 abrv = 'CHI'
 
@@ -16,6 +17,6 @@ chi_data.drop(['avg_hum','avg_wind','avg_pres','hi_precip','lo_precip'], axis=1,
 chi_data.drop(chi_data['2018-06-29':].index, axis=0, inplace=True)
 
 # check distributions of features using histograms
-pd.DataFrame.hist(data=chi_data, figsize=(15,15), layout=(4,4), bins=15);
+pd.DataFrame.hist(data=chi_data, figsize=(10,10), layout=(4,4), bins=15)
 
-
+plt.show()

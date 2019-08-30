@@ -9,7 +9,7 @@ import random
 
 def read_webpage(driver,url):
     driver.get(url)
-    time.sleep(random.randint(18,22)) # pause to let page load
+    time.sleep(random.randint(8,12)) # pause to let page load
     xp = '//body/app/city-history/city-history-layout/div/div[2]/'\
             + 'section/div[2]/div[3]/div/div/div/div/'\
             + 'city-history-observation/div/div[2]/table/tbody'
