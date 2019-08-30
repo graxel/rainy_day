@@ -9,7 +9,7 @@ import random
 
 def read_webpage(driver,url):
     driver.get(url)
-    time.sleep(random.randint(8,12)) # pause to let page load
+    time.sleep(random.randint(18,22)) # pause to let page load
     xp = '//body/app/city-history/city-history-layout/div/div[2]/'\
             + 'section/div[2]/div[3]/div/div/div/div/'\
             + 'city-history-observation/div/div[2]/table/tbody'
@@ -28,7 +28,7 @@ end_date = datetime(2018,12,1)
 date_list = pd.Series(pd.date_range(start_date,end_date,freq='MS'))
 
 # idempotently create directory for weather data
-w_data_dir = f'{abrv}_weather_data_files'
+w_data_dir = f'{abrv}_weather_data_files_test'
 os.makedirs(w_data_dir, exist_ok = True)
 
 for date in date_list:
